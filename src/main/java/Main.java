@@ -12,7 +12,7 @@ public class Main {
         Cashier cashier3 = new Cashier("hellin",3);
         Product item1 = new Product("biscuit",30,2);
         Product item2 = new Product("samvita",22,1);
-        Product item3 = new Product("oat",31,23);
+        Product item3 = new Product("Oat",31,23);
         Cashier cashier= new Cashier();
         Customer buy = new Customer();
 
